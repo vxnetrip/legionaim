@@ -1,7 +1,7 @@
 # YOLO-TensorRT Aimbot (Patched) 🎯
 ## Proudly made by VXNET Team (corrupt3d.exe & vxnetrip)
 
-## Contact us: https://vxnetrip.infy.uk
+## Contact us: https://vxnet.onrender.com
 ## Discord Server: https://discord.gg/HmGHGww2kY
 
 > ⚠️ **Notice:** This project is for **educational and research purposes only**. It is no longer functional in live environments and is **fully patched**. Do not use this software for any unethical or unauthorized activity.
